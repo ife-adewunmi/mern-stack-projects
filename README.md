@@ -1,11 +1,14 @@
-# Expense Tracker (React)
+# React Blog For Beginners (React)
 
 > Full stack expense tracker
 
 ## Usage
 
 ```
-clone repo: git clone -b react-blog-thenetninja  https://github.com/ife-adewunmi/mern-stack-projects.git [optional your-clone-folder-name]
+Clone Repo: 
+
+git clone -b react-blog-thenetninja  https://github.com/ife-adewunmi/mern-stack-projects.git [optional your-clone-folder-name]
+
 ```
 
 ```
