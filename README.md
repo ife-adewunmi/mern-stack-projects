@@ -1,6 +1,6 @@
 # React Blog For Beginners (React)
 
-> Full stack expense tracker
+> A beginner react project
 
 ## Usage
 
