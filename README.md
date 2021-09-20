@@ -12,7 +12,10 @@ git clone -b react-blog-thenetninja  https://github.com/ife-adewunmi/mern-stack-
 ```
 
 ```
- cd your-clone-folder yarn install
+ cd your-clone-folder 
+ 
+ # Run
+ yarn install
  
  # Run
  yarn start
